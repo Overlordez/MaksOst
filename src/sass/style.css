@@ -1707,7 +1707,7 @@ h3.each {
 }
 
 #testimonials {
-    background-image: url("../images/uploaded/bg.jpg");
+    background-image: url("../images/uploaded/testimotback.jpg");
     background-position: center top;
     background-attachment: fixed;
     padding-top: 0px;
@@ -1737,7 +1737,7 @@ h3.each {
     background-attachment: fixed;
     color: white;
     background-size: cover;
-    background-image: url("https://wallpaperaccess.com/full/324626.jpg")
+    background-image: url("/images/uploaded/horse.jpg")
     
 }
 

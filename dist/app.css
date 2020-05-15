@@ -11845,7 +11845,7 @@ h3.each {
 }
 
 #testimonials {
-  background-image: url("../images/uploaded/bg.jpg");
+  background-image: url("../images/uploaded/testimotback.jpg");
   background-position: center top;
   background-attachment: fixed;
   padding-top: 0px;
@@ -11874,7 +11874,7 @@ h3.each {
   background-attachment: fixed;
   color: white;
   background-size: cover;
-  background-image: url("https://wallpaperaccess.com/full/324626.jpg");
+  background-image: url("/images/uploaded/horse.jpg");
 }
 
 #free h2 {
@@ -12247,7 +12247,7 @@ section.size-book {
 }
 
 .field button {
-  background-color: #00c700;
+  background-color: #C7BE17;
   font-size: 18px;
   color: #fff;
   width: 100%;
@@ -12258,7 +12258,7 @@ section.size-book {
 }
 
 .field button:hover {
-  color: #00c700;
+  color: #C7BE17;
   background-color: #fff;
 }
 
@@ -12308,8 +12308,8 @@ section.size-book {
   text-transform: uppercase;
   font-weight: bold;
   color: #fff;
-  background-color: #00c700;
-  border: 2px solid #00c700;
+  background-color: #C7BE17;
+  border: 2px solid #C7BE17;
 }
 
 .feedback-arrows__item svg {
@@ -12320,7 +12320,7 @@ section.size-book {
 
 .feedback-arrows__item:hover {
   background-color: #fff;
-  color: #00c700;
+  color: #C7BE17;
 }
 
 .feedback-arrows__item.arrow-prew svg {
