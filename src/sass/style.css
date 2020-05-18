@@ -1292,7 +1292,7 @@ ul.posts-line .post .title {
     background-attachment: fixed;
     background-size: cover;
     background-size: 35%;
-    background-position: right; 
+    background-position-x: 85%; 
 }
 
 a:hover {
