@@ -1300,6 +1300,10 @@ a:hover {
     cursor: pointer;
 }
 
+.aboutBook{
+    margin: 20px;
+}
+
 .portfolio-list li a span {
     display: block;
     text-align: center;
@@ -1737,7 +1741,8 @@ h3.each {
     background-attachment: fixed;
     color: white;
     background-size: cover;
-    background-image: url("/images/uploaded/horse.jpg")
+    font-size: 25px; 
+    background-image: url("/images/uploaded/another.jpg")
     
 }
 
