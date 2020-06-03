@@ -456,13 +456,16 @@
 
 						<p>Замовте прямо зараз!</p>
 
-						<form action="mail-send.php" class="form">
+						<form action="mail-send.php" method="post" class="form">
 							<div class="field">
-								<input type="text" placeholder="Им'я" />
+								<input required name="user" type="text" placeholder="Им'я" />
 							</div>
 
 							<div class="field">
-								<input type="text" placeholder="Номер телефону" />
+								<input required name="tel" type="text" placeholder="Номер телефону" />
+							</div>
+							<div class="field">
+								<input name="email" type="text" placeholder="Email"
 							</div>
 
 							<div class="field">
